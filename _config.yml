@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Kan Chen"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Kan Chen"
-  pronouns         : # example: "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "he/him"  
+  bio              : "Postdoctoral Research Fellow at Harvard"
+  location         : "Boston"
+  employer         : "Harvard University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kanchen@hsph.harvard.edu" 
 
   # Academic websites
   academia         : # URL
