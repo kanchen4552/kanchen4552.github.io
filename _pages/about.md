@@ -13,13 +13,6 @@ Kan Chen’s research focuses on developing robust and interpretable statistical
 
 Kan Chen recieved his PhD in Applied Mathematics and Computational Science from University of Pennsylvainia, mentored by [Prof. Dylan Small](https://statistics.wharton.upenn.edu/profile/dsmall/) and [Prof. Qi Long](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8939931).  
 
-Contact Information
-------
-Office: Building 2 435. 655  Huntington Ave, Boston, MA,  02115
-
-Email: kanchen@hsph.harvard.edu
-
-Phone: 267-252-8404
 
 
 Recent News
