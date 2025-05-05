@@ -13,6 +13,14 @@ Kan Chen’s research focuses on developing robust and interpretable statistical
 
 Kan Chen recieved his PhD in Applied Mathematics and Computational Science from University of Pennsylvainia, mentored by [Prof. Dylan Small](https://statistics.wharton.upenn.edu/profile/dsmall/) and [Prof. Qi Long](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8939931).  
 
+Contact Information
+------
+Office: Building 2 435. 655  Huntington Ave, Boston, MA,  02115
+
+Email: kanchen@hsph.harvard.edu
+
+Phone: 267-252-8404
+
 
 Recent News
 ------
@@ -20,7 +28,7 @@ Recent News
 
 [May 2025] Presented at [NJIT statistics seminar](https://math.njit.edu/statistics-seminar-spring-2025)
 
-[January 2025] Published in Nature Medicine: [Evaluating generalizability of oncology trial results to real-world patients using machine learning-based trial emulations](https://www.nature.com/articles/s41591-024-03352-5).
+[January 2025] Paper published in Nature Medicine: [Evaluating generalizability of oncology trial results to real-world patients using machine learning-based trial emulations](https://www.nature.com/articles/s41591-024-03352-5).
 
 [December 2024] Paper published at JASA: [Combining Broad and Narrow Case Definitions in Matched Case-Control Studies: Firearms in the Home and Suicide Risk](https://www.tandfonline.com/doi/abs/10.1080/01621459.2024.2441519).
 
