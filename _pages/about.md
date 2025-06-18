@@ -9,7 +9,7 @@ redirect_from:
 
 Kan Chen is a postdoctoral research fellow at the Biostatistics Department of Harvard T.H. Chan School of Public Health mentored by [Prof. Xihong Lin](https://hsph.harvard.edu/research/lin-lab/). 
 
-Kan Chen's research spans causal inference, causal machine learning, and collaborative scientific applications. 
+Kan Chen's research spans <strong>causal inference<\strong>, <strong>causal machine learning<\strong>, and <strong>collaborative scientific applications<\strong>. Methodologically, his work advances causal inference techniques, with a focus on sensitivity analysis, partial identification, mediation analysis, and others under complex confounding structures. In causal machine learning, he develops robust and scalable algorithms that integrate representation learning to improve causal effect estimation in high-dimensional and distributionally shifted settings. Through interdisciplinary collaborations, Kan applies these methods to real-world problems in public health, oncology, and social policy, leveraging large-scale electronic health records and national surveillance data to generate actionable scientific insights.
 
 Kan Chen recieved his PhD in Applied Mathematics and Computational Science from University of Pennsylvainia, mentored by [Prof. Dylan Small](https://statistics.wharton.upenn.edu/profile/dsmall/) and [Prof. Qi Long](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8939931).  
 
