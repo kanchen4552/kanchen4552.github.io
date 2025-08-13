@@ -13,7 +13,9 @@ Kan Chen is a postdoctoral research fellow at the Biostatistics Department of Ha
 
 Recent News
 ------
-[June 2025] Paper accepted by Journal of the Royal Statistical Society Series A: [Using Case Description Information to Reduce Sensitivity to Bias for the Attributable Fraction Among the Exposed](https://arxiv.org/abs/2209.00781).
+[July 2025] Paper accepted by Biometrics: [Sensitivity Analysis for Attributable Effects in Case-2 Studies]([https://arxiv.org/abs/2209.00781](https://arxiv.org/abs/2405.16046)).
+
+[June 2025] Paper accepted by Journal of the Royal Statistical Society Series A: [Using Case Description Information to Reduce Sensitivity to Bias for the Attributable Fraction Among the Exposed]([https://arxiv.org/abs/2209.00781](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnaf066/8180203?searchresult=1)).
 
 [May 2025] Presented at ACIC 2025
 
