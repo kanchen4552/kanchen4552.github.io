@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Kan Chen is a postdoctoral research fellow at the Biostatistics Department of Harvard T.H. Chan School of Public Health mentored by [Prof. Xihong Lin](https://hsph.harvard.edu/research/lin-lab/).  Prior to this, Kan recieved his PhD in Applied Mathematics and Computational Science from University of Pennsylvainia, mentored by [Prof. Dylan Small](https://statistics.wharton.upenn.edu/profile/dsmall/) and [Prof. Qi Long](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8939931). Kan's research spans causal inference, causal machine learning, and collaborative scientific applications.
+Kan Chen is a postdoctoral research fellow jointly appointed at the Biostatistics Department of Harvard T.H. Chan School of Public Health mentored by [Prof. Xihong Lin](https://hsph.harvard.edu/research/lin-lab/), and the Biostatistics Department of Columbia University mentored by [Prof. Zhonghua Liu](https://www.publichealth.columbia.edu/profile/zhonghua-liu-scd).  Prior to this, Kan recieved his PhD in Applied Mathematics and Computational Science from University of Pennsylvainia, mentored by [Prof. Dylan Small](https://statistics.wharton.upenn.edu/profile/dsmall/) and [Prof. Qi Long](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8939931). Kan's research spans causal inference, causal machine learning, and collaborative scientific applications.
 
 
 
 Recent News
 ------
+
 [July 2025] Paper accepted by Biometrics: [Sensitivity Analysis for Attributable Effects in Case-2 Studies]([https://arxiv.org/abs/2209.00781](https://arxiv.org/abs/2405.16046)).
 
 [June 2025] Paper accepted by Journal of the Royal Statistical Society Series A: [Using Case Description Information to Reduce Sensitivity to Bias for the Attributable Fraction Among the Exposed]([https://arxiv.org/abs/2209.00781](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnaf066/8180203?searchresult=1)).
