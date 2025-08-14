@@ -20,7 +20,7 @@ Recent News
 
 [May 2025] Presented at ACIC 2025. Titles: “The Blessing of Multiple Mediators: Taming Unmeasured Confounding Bias via Factor Analysis.” and “Sensitivity Analysis for Attributable Effects in Case<sup>2</sup> Studies.”
 
-[May 2025] Presented at [NJIT statistics seminar](https://math.njit.edu/statistics-seminar-spring-2025). Titles: “The Blessing of Multiple Mediators: Taming Unmeasured Confounding Bias via Factor Analysis.”
+[May 2025] Presented at [NJIT statistics seminar](https://math.njit.edu/statistics-seminar-spring-2025). Title: “The Blessing of Multiple Mediators: Taming Unmeasured Confounding Bias via Factor Analysis.”
 
 [January 2025] Paper published in Nature Medicine: [Evaluating generalizability of oncology trial results to real-world patients using machine learning-based trial emulations](https://www.nature.com/articles/s41591-024-03352-5).
 
