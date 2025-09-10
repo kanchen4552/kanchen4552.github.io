@@ -26,7 +26,7 @@ Recent News
 
 [December 2024] Paper published at JASA: [Combining Broad and Narrow Case Definitions in Matched Case-Control Studies: Firearms in the Home and Suicide Risk](https://www.tandfonline.com/doi/abs/10.1080/01621459.2024.2441519).
 
-[October 2024] Presented at JSM 2024 (Statistics and Health Policy Section). Title: “A Differential Effect Approach to Partial Identification of Treatment Effects.”
+[August 2024] Presented at JSM 2024 (Statistics and Health Policy Section). Title: “A Differential Effect Approach to Partial Identification of Treatment Effects.”
 
 [April 2024] Spotlight paper accepted by ICML 2024 for the paper [Discret: Synthesizing faithful explanations for treatment effect estimation](https://arxiv.org/abs/2406.00611).
 
