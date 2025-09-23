@@ -14,9 +14,9 @@ Kan Chen is a postdoctoral research fellow jointly appointed at the Biostatistic
 Recent News
 ------
 
-[July 2025] Paper accepted by Biometrics: [Sensitivity Analysis for Attributable Effects in Case-2 Studies](https://academic.oup.com/biometrics/article-abstract/81/3/ujaf102/8240119?redirectedFrom=fulltext).
+[July 2025] Paper pulished by Biometrics: [Sensitivity Analysis for Attributable Effects in Case-2 Studies](https://academic.oup.com/biometrics/article-abstract/81/3/ujaf102/8240119?redirectedFrom=fulltext).
 
-[June 2025] Paper accepted by Journal of the Royal Statistical Society Series A: [Using Case Description Information to Reduce Sensitivity to Bias for the Attributable Fraction Among the Exposed](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnaf066/8180203?searchresult=1).
+[June 2025] Paper published by Journal of the Royal Statistical Society Series A: [Using Case Description Information to Reduce Sensitivity to Bias for the Attributable Fraction Among the Exposed](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnaf066/8180203?searchresult=1).
 
 [May 2025] Presented at ACIC 2025. Titles: “The Blessing of Multiple Mediators: Taming Unmeasured Confounding Bias via Factor Analysis.” and “Sensitivity Analysis for Attributable Effects in Case<sup>2</sup> Studies.”
 
