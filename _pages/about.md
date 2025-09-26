@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Kan Chen is a postdoctoral research fellow jointly appointed at the Biostatistics Department of Harvard T.H. Chan School of Public Health mentored by [Prof. Xihong Lin](https://hsph.harvard.edu/research/lin-lab/), and the Biostatistics Department of Columbia University mentored by [Prof. Zhonghua Liu](https://www.publichealth.columbia.edu/profile/zhonghua-liu-scd).  Prior to this, Kan recieved his PhD in Applied Mathematics and Computational Science from University of Pennsylvainia, mentored by [Prof. Dylan Small](https://statistics.wharton.upenn.edu/profile/dsmall/) and [Prof. Qi Long](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8939931). Kan's research spans causal inference, causal machine learning and AI, and collaborative scientific applications.
+Kan Chen is a postdoctoral research fellow jointly mentored by [Prof. Xihong Lin](https://hsph.harvard.edu/research/lin-lab/) at the Biostatistics Department of Harvard T.H. Chan School of Public Health, and  [Prof. Zhonghua Liu](https://www.publichealth.columbia.edu/profile/zhonghua-liu-scd) at the Biostatistics Department of Columbia University. Prior to this, Kan recieved his PhD in Applied Mathematics and Computational Science from University of Pennsylvainia, mentored by [Prof. Dylan Small](https://statistics.wharton.upenn.edu/profile/dsmall/) and [Prof. Qi Long](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8939931). Kan's research spans causal inference, causal machine learning and AI, and collaborative scientific applications.
 
 
 
