@@ -14,9 +14,9 @@ Kan Chen is a postdoctoral research fellow jointly mentored by [Prof. Xihong Lin
 Recent News
 ------
 
-[July 2025] Paper pulished by Biometrics: [Sensitivity Analysis for Attributable Effects in Case-2 Studies](https://academic.oup.com/biometrics/article-abstract/81/3/ujaf102/8240119?redirectedFrom=fulltext).
+[July 2025] Paper pulished in Biometrics: [Sensitivity Analysis for Attributable Effects in Case-2 Studies](https://academic.oup.com/biometrics/article-abstract/81/3/ujaf102/8240119?redirectedFrom=fulltext).
 
-[June 2025] Paper published by Journal of the Royal Statistical Society Series A: [Using Case Description Information to Reduce Sensitivity to Bias for the Attributable Fraction Among the Exposed](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnaf066/8180203?searchresult=1).
+[June 2025] Paper published in Journal of the Royal Statistical Society Series A: [Using Case Description Information to Reduce Sensitivity to Bias for the Attributable Fraction Among the Exposed](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnaf066/8180203?searchresult=1).
 
 [May 2025] Presented at ACIC 2025. Titles: “The Blessing of Multiple Mediators: Taming Unmeasured Confounding Bias via Factor Analysis.” and “Sensitivity Analysis for Attributable Effects in Case<sup>2</sup> Studies.”
 
@@ -24,7 +24,7 @@ Recent News
 
 [January 2025] Paper published in Nature Medicine: [Evaluating generalizability of oncology trial results to real-world patients using machine learning-based trial emulations](https://www.nature.com/articles/s41591-024-03352-5).
 
-[December 2024] Paper published at JASA: [Combining Broad and Narrow Case Definitions in Matched Case-Control Studies: Firearms in the Home and Suicide Risk](https://www.tandfonline.com/doi/abs/10.1080/01621459.2024.2441519).
+[December 2024] Paper published in JASA: [Combining Broad and Narrow Case Definitions in Matched Case-Control Studies: Firearms in the Home and Suicide Risk](https://www.tandfonline.com/doi/abs/10.1080/01621459.2024.2441519).
 
 [August 2024] Presented at JSM 2024 (Statistics and Health Policy Section). Title: “A Differential Effect Approach to Partial Identification of Treatment Effects.”
 
