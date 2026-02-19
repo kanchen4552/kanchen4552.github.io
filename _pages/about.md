@@ -13,6 +13,7 @@ Kan Chen is a postdoctoral research fellow jointly mentored by [Prof. Xihong Lin
 
 Recent News
 ------
+[February 2025] Received 2025 Statistics in Biosciences Best Paper Award. 
 
 [July 2025] Paper pulished in Biometrics: [Sensitivity Analysis for Attributable Effects in Case-2 Studies](https://academic.oup.com/biometrics/article-abstract/81/3/ujaf102/8240119?redirectedFrom=fulltext).
 
