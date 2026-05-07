@@ -10,21 +10,21 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-awards",
-          title: "Awards",
+          title: "awards",
           description: "Selected honors and awards.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/awards/";
           },
         },{id: "nav-publications",
-          title: "Publications",
+          title: "publications",
           description: "Publications and preprints.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-presentations",
-          title: "Presentations",
+        },{id: "nav-talks",
+          title: "talks",
           description: "Selected presentations.",
           section: "Navigation",
           handler: () => {
