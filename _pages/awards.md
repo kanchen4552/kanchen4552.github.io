@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /awards/
-title: Awards
+title: awards
 description: Selected honors and awards.
 nav: true
 nav_order: 2
