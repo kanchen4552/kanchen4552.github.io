@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-awards",
-          title: "Awards",
-          description: "Selected honors and awards.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/awards/";
-          },
-        },{id: "nav-research",
+  },{id: "nav-research",
           title: "Research",
           description: "Research overview",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
+          },
+        },{id: "nav-awards",
+          title: "Awards",
+          description: "Selected honors and awards.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/awards/";
           },
         },{id: "nav-publications",
           title: "Publications",
