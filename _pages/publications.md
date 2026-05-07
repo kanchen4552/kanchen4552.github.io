@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: 
-description: Publications and preprint.
+description: Publications and preprints.
 nav: true
 nav_order: 3
 ---
