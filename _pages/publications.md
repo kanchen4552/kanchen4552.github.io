@@ -79,6 +79,9 @@ nav_order: 3
 
 <h4><em>Scientific Collaboration and Peer-Reviewed Abstracts</em></h4>
 <ol>
+
+    <li>Yemisi M. Martei, <strong>Kan Chen</strong>, M. Obasohan, Ronac Mamtani, Emily Aakhus, Lawrence N. Shulman, et al. (2026) “Racial disparities and utilization trends of first-line targeted therapies for metastatic breast cancer.” <em>JNCI Cancer Spectrum</em>, pkag043. <a href="https://doi.org/10.1093/jncics/pkag043">https://doi.org/10.1093/jncics/pkag043</a></li>
+
     <li>Sophia Shi, <strong>Kan Chen</strong>, Qi Long, Ravi Parikh. (2025) “Effect of Incorporating Symptom Burden With Mortality as a Composite Outcome on Accuracy and Bias in Palliative Care Identification Algorithms in Oncology.” <em>Journal of Clinical Oncology</em> 43(16_suppl), Abstract 12016. <a href="https://doi.org/10.1200/JCO.2025.43.16_suppl.12016">https://doi.org/10.1200/JCO.2025.43.16_suppl.12016</a></li>
     
     <li>Christopher R. Manz, Yichen Zhang, <strong>Kan Chen</strong>, et al. (2023) “Machine Learning-Triggered Behavioral Nudges on Serious Illness Communication and End-of-Life Outcomes Among Patients With Cancer: A Randomized Clinical Trial.” <em>JAMA Oncology</em>, 9(4), 414–418. <a href="https://doi.org/10.1001/jamaoncol.2022.6303">https://doi.org/10.1001/jamaoncol.2022.6303</a><br>(Selected Best Papers for the 2024 IMIA Yearbook)</li>
@@ -90,4 +93,5 @@ nav_order: 3
     <li>Stephen J. Bagley, Divij Mathew, <strong>Kan Chen</strong>, et al. (2023) “PD1 Inhibition and GITR Agonism in Combination With Fractionated Stereotactic Radiotherapy for the Treatment of Recurrent Glioblastoma: A Phase 2, Multi-Arm Study.” <em>Journal of Clinical Oncology</em> 41(16_suppl), Abstract 2004. <a href="https://doi.org/10.1200/JCO.2023.41.16_suppl.2004">https://doi.org/10.1200/JCO.2023.41.16_suppl.2004</a></li>
     
     <li>Stephen Bagley, Jacob Shabason, <strong>Kan Chen</strong>, et al. (2022) “CTIM-35. A Phase II Study of GITR Agonist INCAGN01876 and PD-1 Inhibitor Retifanlimab in Combination With Stereotactic Radiotherapy in Patients With Recurrent Glioblastoma.” <em>Neuro-Oncology</em> 24(Suppl 7): Abstract vii69. <a href="https://doi.org/10.1093/neuonc/noac209.267">https://doi.org/10.1093/neuonc/noac209.267</a></li>
+
 </ol>
