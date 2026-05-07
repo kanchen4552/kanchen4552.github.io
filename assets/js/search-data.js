@@ -17,21 +17,21 @@ ninja.data = [{
             window.location.href = "/awards/";
           },
         },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "Publications and preprints.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-talks",
-          title: "talks",
+        },{id: "nav-presentations",
+          title: "Presentations",
           description: "Selected presentations.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/talks/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "",
           section: "Navigation",
           handler: () => {
