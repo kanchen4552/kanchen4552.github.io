@@ -510,18 +510,11 @@ ninja.data = [{
           window.open("mailto:%6B%6E%63%37%30%30%35@%6D%65%64.%63%6F%72%6E%65%6C%6C.%65%64%75", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://github.com/kanchen4552", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -529,6 +522,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=1XcAQfEAAAAJ&hl=en", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/kan-chen-7909b3141", "_blank");
         },
       },{
       id: 'light-theme',
