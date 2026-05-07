@@ -440,7 +440,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-paper-published-in-journal-of-the-royal-statistical-society-series-a-using-case-description-information-to-reduce-sensitivity-to-bias-for-the-attributable-fraction-among-the-exposed",
+            },},{id: "news-paper-published-in-nature-medicine-evaluating-generalizability-of-oncology-trial-results-to-real-world-patients-using-machine-learning-based-trial-emulations",
+          title: 'Paper published in Nature Medicine: Evaluating Generalizability of Oncology Trial Results to Real-World...',
+          description: "",
+          section: "News",},{id: "news-presented-at-the-njit-statistics-seminar-title-the-blessing-of-multiple-mediators-taming-unmeasured-confounding-bias-via-factor-analysis",
+          title: 'Presented at the NJIT Statistics Seminar. Title: “The Blessing of Multiple Mediators: Taming...',
+          description: "",
+          section: "News",},{id: "news-presented-at-acic-2025-talk-titles-the-blessing-of-multiple-mediators-taming-unmeasured-confounding-bias-via-factor-analysis-and-sensitivity-analysis-for-attributable-effects-in-case2-studies",
+          title: 'Presented at ACIC 2025. Talk titles: “The Blessing of Multiple Mediators: Taming Unmeasured...',
+          description: "",
+          section: "News",},{id: "news-paper-published-in-journal-of-the-royal-statistical-society-series-a-using-case-description-information-to-reduce-sensitivity-to-bias-for-the-attributable-fraction-among-the-exposed",
           title: 'Paper published in Journal of the Royal Statistical Society Series A: Using Case...',
           description: "",
           section: "News",},{id: "news-paper-published-in-biometrics-sensitivity-analysis-for-attributable-effects-in-case-2-studies",
