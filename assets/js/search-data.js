@@ -440,7 +440,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-spotlight-paper-accepted-at-icml-2024-for-discret-synthesizing-faithful-explanations-for-treatment-effect-estimation",
+            },},{id: "news-received-the-ims-new-researcher-travel-award",
+          title: 'Received the IMS New Researcher Travel Award.',
+          description: "",
+          section: "News",},{id: "news-spotlight-paper-accepted-at-icml-2024-for-discret-synthesizing-faithful-explanations-for-treatment-effect-estimation",
           title: 'Spotlight paper accepted at ICML 2024 for DISCRET: Synthesizing Faithful Explanations for Treatment...',
           description: "",
           section: "News",},{id: "news-presented-at-jsm-2024-in-the-statistics-and-health-policy-section-title-a-differential-effect-approach-to-partial-identification-of-treatment-effects",
