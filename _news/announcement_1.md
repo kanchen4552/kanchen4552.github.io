@@ -6,6 +6,6 @@ related_posts: false
 ---
 
 Kan will join Weill Cornell Medicine, Cornell University as a tenure-track Assistant Professor of Biostatistics in the Department of Population Health Sciences.
-```
+
 
 
