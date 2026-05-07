@@ -28,7 +28,7 @@ ninja.data = [{
           description: "members of the lab or group",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/_pages/profiles/";
           },
         },{id: "post-a-post-with-plotly-js",
         
