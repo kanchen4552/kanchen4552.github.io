@@ -440,7 +440,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-received-2025-statistics-in-biosciences-best-paper-award",
+            },},{id: "news-paper-published-in-biometrics-sensitivity-analysis-for-attributable-effects-in-case-2-studies",
+          title: 'Paper published in Biometrics: Sensitivity Analysis for Attributable Effects in Case-2 Studies. ```...',
+          description: "",
+          section: "News",},{id: "news-received-2025-statistics-in-biosciences-best-paper-award",
           title: 'Received 2025 Statistics in Biosciences Best Paper Award',
           description: "",
           section: "News",handler: () => {
