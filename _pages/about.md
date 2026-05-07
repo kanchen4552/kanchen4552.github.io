@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Incoming Assistant Professor of Biostatistics at Weill Cornell Medicine, Cornell University
 
