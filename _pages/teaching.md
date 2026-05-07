@@ -7,13 +7,14 @@ nav: true
 nav_order: 7
 ---
 
-<h3>University of Pennsylvania</h3>
-
 <section id="teaching">
   <blockquote>
     <p>“If you want to learn something, read about it. If you want to understand something, write about it. If you want to master something, teach it.”</p>
     <footer>— Yogi Bhajan</footer>
   </blockquote>
+  
+<h2>University of Pennsylvania</h2>
+
 
   <ul>
     <li><strong>2023 Summer</strong> — Instructor for STAT 1010 (Introductory Business Statistics) 
