@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Paper published in *Biometrics*: [Sensitivity Analysis for Attributable Effects in Case-2 Studies](https://academic.oup.com/biometrics/article-abstract/81/3/ujaf102/8240119?redirectedFrom=fulltext).
-```
