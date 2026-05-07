@@ -10,5 +10,5 @@ Received the 2025 Statistics in Biosciences Best Paper Award for the paper:
 
 > “Covariate-Balancing-Aware Interpretable Deep Learning Models for Treatment Effect Estimation.”
 
-The award recognizes outstanding methodological contributions at the intersection of statistics and biomedical research.
-```
+This work was coauthored with Qishuo Yin and Qi Long. The award recognizes outstanding methodological contributions at the intersection of statistics and biomedical research.
+
