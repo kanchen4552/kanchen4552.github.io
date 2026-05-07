@@ -13,7 +13,7 @@ profile:
     <p>Weill Cornell Medicine, Cornell University</p>
     <p>knc7005@med.cornell.edu</p>
 
-selected_papers: true
+selected_papers: false
 
 social: true
 
