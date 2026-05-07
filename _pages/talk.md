@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /talks/
-title: talks
+title: Talks
 description: Selected presentations.
 nav: true
 nav_order: 4
