@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 description: Research overview
 nav: true
-nav_order: 6
+nav_order: 2
 ---
 
 <img src="/assets/img/research_pipeline.png" alt="Research pipeline" style="width:100%; max-width:1200px; display:block; margin: 1.5rem auto 2rem auto;">
