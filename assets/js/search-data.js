@@ -445,7 +445,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
+            },},{id: "news-kan-will-join-weill-cornell-medicine-cornell-university-as-a-tenure-track-assistant-professor-of-biostatistics-in-the-department-of-population-health-sciences",
+          title: 'Kan will join Weill Cornell Medicine, Cornell University as a tenure-track Assistant Professor...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
