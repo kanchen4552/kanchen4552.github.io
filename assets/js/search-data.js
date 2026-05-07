@@ -440,7 +440,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-paper-published-in-nature-medicine-evaluating-generalizability-of-oncology-trial-results-to-real-world-patients-using-machine-learning-based-trial-emulations",
+            },},{id: "news-paper-published-in-journal-of-the-american-statistical-association-jasa-combining-broad-and-narrow-case-definitions-in-matched-case-control-studies-firearms-in-the-home-and-suicide-risk",
+          title: 'Paper published in Journal of the American Statistical Association (JASA): Combining Broad and...',
+          description: "",
+          section: "News",},{id: "news-paper-published-in-nature-medicine-evaluating-generalizability-of-oncology-trial-results-to-real-world-patients-using-machine-learning-based-trial-emulations",
           title: 'Paper published in Nature Medicine: Evaluating Generalizability of Oncology Trial Results to Real-World...',
           description: "",
           section: "News",},{id: "news-presented-at-the-njit-statistics-seminar-title-the-blessing-of-multiple-mediators-taming-unmeasured-confounding-bias-via-factor-analysis",
