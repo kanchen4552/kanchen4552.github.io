@@ -16,23 +16,23 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/awards/";
           },
-        },{id: "nav-",
-          title: "",
-          description: "Publications and preprints.",
+        },{id: "nav-publications-and-preprints",
+          title: "Publications and preprints.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-",
-          title: "",
-          description: "Selected presentations.",
+        },{id: "nav-selected-presentations",
+          title: "Selected presentations.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/talks/";
           },
-        },{id: "nav-",
-          title: "",
-          description: "Classes taught.",
+        },{id: "nav-teaching",
+          title: "Teaching",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
