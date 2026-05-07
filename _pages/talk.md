@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /talks/
-title: Selected presentations.
-description: 
+title: Presentations
+description: Selected presentations.
 nav: true
 nav_order: 4
 ---
