@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Incoming Assistant Professor of Biostatistics at Weill Cornell Medicine, Cornell University
+subtitle: Incoming Assistant Professor of Biostatistics at Weill Cornell Medicine
 
 profile:
   align: right
@@ -20,7 +20,7 @@ social: true
 announcements:
   enabled: true
   scrollable: true
-  limit: 20
+  limit: 100
 
 latest_posts:
   enabled: false
