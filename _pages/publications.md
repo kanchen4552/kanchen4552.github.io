@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: 
-description: Publications and preprints.
+title: Publications and preprints.
+description: 
 nav: true
 nav_order: 3
 ---
