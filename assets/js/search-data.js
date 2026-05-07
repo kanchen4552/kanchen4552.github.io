@@ -440,7 +440,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-presented-at-jsm-2024-in-the-statistics-and-health-policy-section-title-a-differential-effect-approach-to-partial-identification-of-treatment-effects",
+            },},{id: "news-spotlight-paper-accepted-at-icml-2024-for-discret-synthesizing-faithful-explanations-for-treatment-effect-estimation",
+          title: 'Spotlight paper accepted at ICML 2024 for DISCRET: Synthesizing Faithful Explanations for Treatment...',
+          description: "",
+          section: "News",},{id: "news-presented-at-jsm-2024-in-the-statistics-and-health-policy-section-title-a-differential-effect-approach-to-partial-identification-of-treatment-effects",
           title: 'Presented at JSM 2024 in the Statistics and Health Policy Section. Title: “A...',
           description: "",
           section: "News",},{id: "news-paper-published-in-journal-of-the-american-statistical-association-jasa-combining-broad-and-narrow-case-definitions-in-matched-case-control-studies-firearms-in-the-home-and-suicide-risk",
