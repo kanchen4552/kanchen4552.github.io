@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-05-27'
 papers:
   1XcAQfEAAAAJ:4JMBOYKVnBMC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: DISTRIBUTED GAUSSIAN DIFFERENTIAL PRIVACY VIA SHUFFLING
     year: '2021'
   1XcAQfEAAAAJ:IjCSPb-OGe4C:
-    citations: 15
+    citations: 16
     title: Differentially private bayesian neural networks on accuracy, privacy and reliability
     year: '2022'
   1XcAQfEAAAAJ:L8Ckcad2t8MC:
@@ -34,7 +34,7 @@ papers:
     title: 'Combining broad and narrow case definitions in matched case-control studies: firearms in the home and suicide risk'
     year: '2025'
   1XcAQfEAAAAJ:R3hNpaxXUhUC:
-    citations: 10
+    citations: 12
     title: Covariate-balancing-aware interpretable deep learning models for treatment effect estimation
     year: '2023'
   1XcAQfEAAAAJ:RHpTSmoSYBkC:
