@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-27'
+  last_updated: '2026-06-29'
 papers:
   1XcAQfEAAAAJ:4JMBOYKVnBMC:
     citations: 0
@@ -34,7 +34,7 @@ papers:
     title: 'Combining broad and narrow case definitions in matched case-control studies: firearms in the home and suicide risk'
     year: '2025'
   1XcAQfEAAAAJ:R3hNpaxXUhUC:
-    citations: 12
+    citations: 13
     title: Covariate-balancing-aware interpretable deep learning models for treatment effect estimation
     year: '2023'
   1XcAQfEAAAAJ:RHpTSmoSYBkC:
@@ -50,7 +50,7 @@ papers:
     title: Racial disparities in utilization of first line targeted therapies for metastatic breast cancer
     year: '2023'
   1XcAQfEAAAAJ:YsMSGLbcyi4C:
-    citations: 120
+    citations: 127
     title: "Long-term effect of machine learning\u2013triggered behavioral nudges on serious illness conversations and end-of-life outcomes among patients with cancer: a randomized clinical trial"
     year: '2023'
   1XcAQfEAAAAJ:_Qo2XoVZTnwC:
@@ -58,7 +58,7 @@ papers:
     title: 'CROME: Covariate-Balanced Causal Representation Learning for Composite Outcomes via Multi-Task Estimation in Electronic Health Records'
     year: Unknown Year
   1XcAQfEAAAAJ:_kc_bZDykSQC:
-    citations: 3
+    citations: 4
     title: A randomized controlled trial of a financial navigation program for patients with multiple myeloma
     year: '2023'
   1XcAQfEAAAAJ:dhFuZR0502QC:
@@ -78,7 +78,7 @@ papers:
     title: Sensitivity Analysis for Attributable Effects in Case  Studies
     year: '2025'
   1XcAQfEAAAAJ:qxL8FJ1GzNcC:
-    citations: 47
+    citations: 50
     title: Evaluating generalizability of oncology trial results to real-world patients using machine learning-based trial emulations
     year: '2025'
   1XcAQfEAAAAJ:u-x6o8ySG0sC:
@@ -86,10 +86,10 @@ papers:
     title: A dynamical view on optimization algorithms of overparameterized neural networks
     year: '2021'
   1XcAQfEAAAAJ:ufrVoPGSRksC:
-    citations: 3
+    citations: 4
     title: A differential effect approach to partial identification of treatment effects
     year: '2023'
   1XcAQfEAAAAJ:zYLM7Y9cAGgC:
-    citations: 6
+    citations: 7
     title: Asymptotic Statistical Analysis of Sparse Group LASSO via Approximate Message Passing
     year: '2021'
