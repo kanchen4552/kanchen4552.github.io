@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-24'
 papers:
   1XcAQfEAAAAJ:4JMBOYKVnBMC:
     citations: 0
@@ -26,7 +26,7 @@ papers:
     title: Effect of incorporating symptom burden with mortality as a composite outcome on accuracy and bias in palliative care identification algorithms in oncology.
     year: '2025'
   1XcAQfEAAAAJ:LkGwnXOMwfcC:
-    citations: 16
+    citations: 17
     title: Testing biased randomization assumptions and quantifying imperfect matching and residual confounding in matched observational studies
     year: '2023'
   1XcAQfEAAAAJ:M3ejUd6NZC8C:
@@ -50,7 +50,7 @@ papers:
     title: Racial disparities in utilization of first line targeted therapies for metastatic breast cancer
     year: '2023'
   1XcAQfEAAAAJ:YsMSGLbcyi4C:
-    citations: 127
+    citations: 128
     title: "Long-term effect of machine learning\u2013triggered behavioral nudges on serious illness conversations and end-of-life outcomes among patients with cancer: a randomized clinical trial"
     year: '2023'
   1XcAQfEAAAAJ:_Qo2XoVZTnwC:
@@ -72,13 +72,13 @@ papers:
   1XcAQfEAAAAJ:hC7cP41nSMkC:
     citations: 2
     title: Using case description information to reduce sensitivity to bias for the attributable fraction among the exposed
-    year: '2025'
+    year: '2026'
   1XcAQfEAAAAJ:mB3voiENLucC:
     citations: 1
     title: Sensitivity Analysis for Attributable Effects in Case  Studies
     year: '2025'
   1XcAQfEAAAAJ:qxL8FJ1GzNcC:
-    citations: 50
+    citations: 53
     title: Evaluating generalizability of oncology trial results to real-world patients using machine learning-based trial emulations
     year: '2025'
   1XcAQfEAAAAJ:u-x6o8ySG0sC:
