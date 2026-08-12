@@ -1,9 +1,9 @@
 metadata:
-  last_updated: '2026-07-31'
+  last_updated: '2026-08-12'
 papers:
   1XcAQfEAAAAJ:4JMBOYKVnBMC:
     citations: 0
-    title: Racial disparities and utilization trends of first-line targeted therapies for metastatic breast cancer.
+    title: Racial disparities and utilization trends of first-line targeted therapies for metastatic breast cancer
     year: '2026'
   1XcAQfEAAAAJ:7PzlFSSx8tAC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: DISTRIBUTED GAUSSIAN DIFFERENTIAL PRIVACY VIA SHUFFLING
     year: '2021'
   1XcAQfEAAAAJ:IjCSPb-OGe4C:
-    citations: 16
+    citations: 17
     title: Differentially private bayesian neural networks on accuracy, privacy and reliability
     year: '2022'
   1XcAQfEAAAAJ:L8Ckcad2t8MC:
@@ -26,11 +26,11 @@ papers:
     title: Effect of incorporating symptom burden with mortality as a composite outcome on accuracy and bias in palliative care identification algorithms in oncology.
     year: '2025'
   1XcAQfEAAAAJ:LkGwnXOMwfcC:
-    citations: 17
+    citations: 18
     title: Testing biased randomization assumptions and quantifying imperfect matching and residual confounding in matched observational studies
     year: '2023'
   1XcAQfEAAAAJ:M3ejUd6NZC8C:
-    citations: 3
+    citations: 2
     title: 'Combining broad and narrow case definitions in matched case-control studies: firearms in the home and suicide risk'
     year: '2025'
   1XcAQfEAAAAJ:R3hNpaxXUhUC:
@@ -38,7 +38,7 @@ papers:
     title: Covariate-balancing-aware interpretable deep learning models for treatment effect estimation
     year: '2023'
   1XcAQfEAAAAJ:RHpTSmoSYBkC:
-    citations: 3
+    citations: 4
     title: Oncolytic Vaccinia Virus Encoding Aphrocallistes vastus Lectin Suppresses the Proliferation of Gastric Cancer Cells
     year: '2024'
   1XcAQfEAAAAJ:Se3iqnhoufwC:
@@ -50,7 +50,7 @@ papers:
     title: Racial disparities in utilization of first line targeted therapies for metastatic breast cancer
     year: '2023'
   1XcAQfEAAAAJ:YsMSGLbcyi4C:
-    citations: 128
+    citations: 126
     title: "Long-term effect of machine learning\u2013triggered behavioral nudges on serious illness conversations and end-of-life outcomes among patients with cancer: a randomized clinical trial"
     year: '2023'
   1XcAQfEAAAAJ:_Qo2XoVZTnwC:
@@ -62,27 +62,31 @@ papers:
     title: A randomized controlled trial of a financial navigation program for patients with multiple myeloma
     year: '2023'
   1XcAQfEAAAAJ:dhFuZR0502QC:
-    citations: 11
+    citations: 12
     title: 'Discret: Synthesizing faithful explanations for treatment effect estimation'
     year: '2024'
   1XcAQfEAAAAJ:eQOLeE2rZwMC:
-    citations: 1
+    citations: 2
     title: CTIM-35. A phase II study of GITR agonist incagn01876 and pd-1 inhibitor retifanlimab in combination with stereotactic radiotherapy in patients with recurrent glioblastoma
     year: '2022'
   1XcAQfEAAAAJ:hC7cP41nSMkC:
     citations: 2
     title: Using case description information to reduce sensitivity to bias for the attributable fraction among the exposed
     year: '2026'
+  1XcAQfEAAAAJ:j3f4tGmQtD8C:
+    citations: 1
+    title: 'Combining Broad and Narrow Case Definitions in Matched Case-Control Studies: Firearms in the Home and Suicide Risk'
+    year: '2021'
   1XcAQfEAAAAJ:mB3voiENLucC:
     citations: 1
     title: Sensitivity Analysis for Attributable Effects in Case  Studies
     year: '2025'
   1XcAQfEAAAAJ:qxL8FJ1GzNcC:
-    citations: 53
+    citations: 59
     title: Evaluating generalizability of oncology trial results to real-world patients using machine learning-based trial emulations
     year: '2025'
   1XcAQfEAAAAJ:u-x6o8ySG0sC:
-    citations: 25
+    citations: 23
     title: A dynamical view on optimization algorithms of overparameterized neural networks
     year: '2021'
   1XcAQfEAAAAJ:ufrVoPGSRksC:
