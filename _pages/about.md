@@ -25,7 +25,7 @@ latest_posts:
   enabled: false
 ---
 
-Kan Chen is a tenure-track Assistant Professor in the Department of Population Health Sciences at Weill Cornell Medicine, Cornell University.
+Kan Chen is a tenure-track Assistant Professor in the Department of Population Health Sciences at Weill Cornell Medicine, Cornell University. He is also an Adjunct Assistant Professor of Biostatistics at Columbia University. 
 
 He was a postdoctoral research fellow jointly mentored by [Prof. Xihong Lin](https://hsph.harvard.edu/research/lin-lab/) at the Biostatistics Department of Harvard T.H. Chan School of Public Health and [Prof. Zhonghua Liu](https://www.publichealth.columbia.edu/profile/zhonghua-liu-scd) at the Biostatistics Department of Columbia University from 2024 to 2026.
 
